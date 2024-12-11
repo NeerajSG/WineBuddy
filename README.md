@@ -14,5 +14,4 @@ Receive recommendations tailored to your taste preferences, helping you discover
 Sustainability at Heart 🌱💡
 At WineBuddy, we emphasize sustainability by promoting eco-conscious practices in viticulture. Our platform not only helps wine lovers make informed choices but also supports environmentally friendly approaches to wine production.
 
-
-<img width="240" alt="1733420446973" src="https://github.com/user-attachments/assets/80975852-0508-4658-906a-c38d5602dbb9" />
+<img width="800" alt="1733420447132" src="https://github.com/user-attachments/assets/ea74c9fd-47e2-4246-9b37-9496c68ea366" />
